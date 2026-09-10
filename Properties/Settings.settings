@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ProfileFillingTool.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="initialBaudRateValue" Type="System.String" Scope="User">
+      <Value Profile="(Default)">38400</Value>
+    </Setting>
+    <Setting Name="initialPasswordValue" Type="System.String" Scope="User">
+      <Value Profile="(Default)">12345678</Value>
+    </Setting>
+    <Setting Name="initialEncryptionModeValue" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Password</Value>
+    </Setting>
+    <Setting Name="initialEncryptionKeyValue" Type="System.String" Scope="User">
+      <Value Profile="(Default)">00112233445566778899AABBCCDDEEFF</Value>
+    </Setting>
+    <Setting Name="initialAuthenticationKeyValue" Type="System.String" Scope="User">
+      <Value Profile="(Default)">00112233445566778899AABBCCDDEEFF</Value>
+    </Setting>
+    <Setting Name="initialUseAssociationValue" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1 - Management</Value>
+    </Setting>
+    <Setting Name="initial1107UseValue" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="radioButtonIpSelected" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="initialComPortValue" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="radioButtonBaudRateSelected" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
