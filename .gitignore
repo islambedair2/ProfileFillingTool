@@ -1,0 +1,40 @@
+# Visual Studio and user-specific files
+.vs/
+*.user
+*.userosscache
+*.suo
+*.rsuser
+
+# Build output
+[Bb]in/
+[Oo]bj/
+Debug/
+Release/
+x64/
+x86/
+
+# Test and analysis output
+TestResults/
+*.trx
+coverage/
+
+# Publish and deployment output
+publish/
+app.publish/
+
+# Generated compiler and debugging files
+*.pdb
+*.mdb
+*.cache
+*.log
+
+# NuGet and package manager output
+packages/
+*.nupkg
+*.snupkg
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*~
